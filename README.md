@@ -4,11 +4,11 @@
  
  1. Blocks for Mobile Application
  
- <img src="Images/blocks.png">
+ <img src="blocks.png">
    
  2. Designer for Mobile Application  
    
-    <img src="Images/designer.png">
+    <img src="designer.png">
     
  3. to download Application scan this QR Code
-   <img src="Images/qrcode.png">
+   <img src="qrcode.png">
