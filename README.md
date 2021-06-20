@@ -10,4 +10,4 @@
    
     <img src="designer.png">
     
- 3. to download Application fork this repository and download the apk file from this repo.
+ 3. to download Application fork this repository and download the apk file from this repo with name Jakrota.apk
