@@ -10,5 +10,4 @@
    
     <img src="designer.png">
     
- 3. to download Application scan this QR Code
-   <img src="qrcode.png">
+ 3. to download Application fork this repository and download the apk file from this repo.
